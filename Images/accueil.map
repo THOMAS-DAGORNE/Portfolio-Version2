@@ -1,0 +1,15 @@
+<img src="[accueil] (importée)" width="1350" height="682" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:tomda -->
+<area shape="poly" coords="288,106,355,78,358,86,413,75,425,125,414,138,405,135,351,144,348,135,309,156,301,147,300,134,296,122,288,120,288,105" alt="Articles" href="file://D:/Documents/Portfolio/Code/pages/artciles.html" />
+<area shape="poly" coords="582,144,641,131,645,142,686,142,686,146,703,136,704,131,711,130,722,138,720,145,726,154,733,155,731,173,722,172,692,188,690,195,673,194,672,187,672,182,625,183,626,180,604,186,602,190,596,188,593,188,590,184,587,181,589,175,586,159,580,155,584,150,582,144" alt="SNKRS ME" href="file://D:/Documents/Portfolio/Code/pages/snkrsme.html" />
+<area shape="poly" coords="713,226,781,230,778,236,781,238,781,242,776,246,776,250,799,247,801,243,819,245,819,252,817,254,822,281,759,292,756,269,725,266,722,267,715,265,710,262,709,258,707,254,713,250,713,226" alt="Taquin" href="file://D:/Documents/Portfolio/Code/pages/taquin.html" />
+<area shape="poly" coords="642,324,711,313,719,360,647,371,642,324" alt="Village" href="file://D:/Documents/Portfolio/Code/pages/village.html" />
+<area shape="poly" coords="350,305,445,297,447,427,349,435" alt="Affiche" href="file://D:/Documents/Portfolio/Code/pages/affiche.html" />
+<area shape="poly" coords="486,226,504,229,505,234,527,241,549,245,578,248,586,243,597,262,589,267,585,285,589,288,585,303,567,301,565,296,553,293,549,294,512,291,509,287,488,279,482,281,476,276,473,276,474,271,471,268,471,264,472,259,474,258,478,258,484,243,481,237,480,234,486,226" alt="Photos" href="file://D:/Documents/Portfolio/Code/pages/photos.html" />
+</map>

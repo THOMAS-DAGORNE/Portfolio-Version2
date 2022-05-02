@@ -1,0 +1,72 @@
+.site {
+
+    font-family: 'Courier New', Courier, monospace;
+    display: grid;
+    grid-template-rows: 60px 1fr 80px;
+    grid-template-columns: 1fr 1fr; 
+    grid-template-areas:
+        "header1 header2"
+        "body1 body2"
+        "footer1 footer2";
+}
+
+body {
+
+    background-color: #0b0a0a;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+h1 {
+
+    color: #FFF;
+    grid-column-start: body1;
+    grid-column-end: body2;
+    text-align: center;
+}
+
+.description-generale, .a-propos, .projets {
+
+    color: #FFF;
+    grid-column-start: body1;
+    grid-column-end: body2;
+}
+
+.intro a, .projets a {
+
+    color: #FFC119;
+    text-decoration: none;
+    grid-column-start: body1;
+    grid-column-end: body2;
+}
+
+.projets a:hover, .intro a:hover {
+
+    color: #b88803;
+}
+
+.intro, .projets {
+
+    grid-column-start: body1;
+    grid-column-end: body2;
+}
+
+.site-proto {
+
+    grid-column-start: body1;
+    grid-column-end: body2;
+}
+
+.affiche {
+
+    grid-column-start: body1;
+    grid-column-end: body2;
+    width: 100%;
+}
+
+.capture-taquin {
+
+    width: 55%;
+}
+
+
